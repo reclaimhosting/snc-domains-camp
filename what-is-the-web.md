@@ -40,6 +40,5 @@ After you have written your HTML code, you would need to upload these files to a
 
 Once the files are uploaded to a publicly accessible directory on a server, the pages can be accessed via web browser at the URL, or web address of the uploaded pages. The web address, or domain, can be something you register and manage through a domain registrar, or part of another site such as the 1990s killer web application [Geocities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) (which also included a web-based FTP app to make that step easier for users).
 
-## Fun facts Quiz:
-When and where was wireless first used for internet connections?
-In 1971 engineers first started using [wireless connections to try and connect the Hawaiian islands](https://en.wikipedia.org/wiki/ALOHAnet).
+### 💡 Did you know?
+The first time wireless technology was used for internet access was in Hawaii in 1971! This Wi-Fi precursor was called [ALOHAnet](https://en.wikipedia.org/wiki/ALOHAnet), and it was developed at the University of Hawaii to try and connect the Hawaiian islands.
