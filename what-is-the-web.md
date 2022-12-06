@@ -18,7 +18,7 @@ Katie Hafner's *Where the Wizards Stay Up Late* was written in 1995--- just as t
 
 Beyond the Herculean engineering feat of integrating a vast network of computers to communicate data almost instantly (something Hafner's book narrates brilliantly), there needed to be an application to both harness and demonstrate the power of this network. And that first killer app for the internet was electronic mail or E-mail, and it's still around!
 
-![AOL's iconic "You've Got Mail" was a gateway to the internet for millions of early, non-geek users](../images/what-is-the-web/youve-got-mail.gif 'AOL's iconic "You've Got Mail" was a gateway to the internet for millions of early, non-geek users')
+![AOL's iconic "You've Got Mail" was a gateway to the internet for millions of early, non-geek users](../images/what-is-the-web/youve-got-mail.gif 'AOL\'s iconic "You\'ve Got Mail" was a gateway to the internet for millions of early, non-geek users')
 
 Email provides a good example of the difference between the internet and the web. Email was invented in 1971, that's almost 20 years before Tim Berners-Lee invented the web! Email was using the protocol FTP to transfer messages, and the @ was used as a convention to filter and point messages to specific users. Other email protocols such as Simple Mail Transfer Protocol (SMTP) were developed in the early 1980s, demonstrating the internet was constantly developing and evolving since its inception in 1969 and would in many ways break-through to a mass audience 25 years later thanks to the relative usability and flexibility of the web protocols.
 
