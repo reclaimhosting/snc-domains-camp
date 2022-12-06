@@ -1,4 +1,4 @@
-# [Domains Camp:](/) Digital Identity and Ownership
+# Digital Identity and Ownership
 
 As we've learned so far, there are numerous different ways to create and post content on the web, so why use Knight Domains and WordPress? It all comes down to how you want to shape your Digital Identity, and what control you have over the identity you create.
 

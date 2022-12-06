@@ -1,4 +1,4 @@
-# [Domains Camp:](/) Teaching and Learning with Domains
+# Teaching and Learning with Domains
 
 Now that you have these key building blocks for how the web works, building a digital identity, and creating a site, you are well equipped to integrate it into your teaching or your learning experience at SNC. There are various reasons you may want to see Knight Domains used in a course:
 

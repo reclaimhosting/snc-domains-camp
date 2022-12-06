@@ -1,4 +1,4 @@
-# [Domains Camp](/): Installing WordPress
+# Installing WordPress
 
 Now that you've got a domain name and a goal in mind for your site, we can get started building! We'll start off by getting WordPress installed.
 

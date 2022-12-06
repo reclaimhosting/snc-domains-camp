@@ -1,4 +1,4 @@
-# [Domains Camp:](/) Goal Setting
+# Goal Setting
 
 Now that we know how URLs and structure work on the web, we can start to build our site with intention site with intention. When creating a site, it's possible to build the ship as you sail it, improvising what you want in the moment. However, by setting deliberate goals for your site, you shape your Digital Identity more easily, since you know what you're trying to accomplish and won't be aiming for a moving target. And be specific! You don't need to create one single site that can "do it all" -- you can always create another one, specialized to the job at hand (and maybe even dress it up to look like part of the same site after the fact).
 

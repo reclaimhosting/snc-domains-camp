@@ -1,16 +1,16 @@
-# [Domains Camp:](/) What is the Web?
+# What is the Web?
 
 ## The Web versus the Internet
 The terms web and internet are often used interchangeably, but it's worth noting that the web is just one, albeit galactically successful, outgrowth of the myriad possibilities of the internet. 
 
 The **internet** refers to the broad infrastructure of distributed, decentralized networked computers that provide the ability to rapidly transfer data between access points. 
 
-![the growing phenomenon of INTERNET](images/world-wide-web-internet.gif)
+![the growing phenomenon of INTERNET](images/internet-phenomenon.gif)
 *the growing phenomenon of INTERNET*
 
 Whereas the **web** is a series of protocols developed for the internet that allow for the creation, publication, and linking of information on and between pages and sites. These early pages were often referred to as hypertexts, a reference to the [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (HTTP) that made the connection between a web client (a.k.a. browser) and a server possible. What shows up on that web client is written in a specific mark-up language called [Hypertext Markup Language](https://en.wikipedia.org/wiki/HTML) (HTML) that makes both the linking and embedding of resources possible.
 
-![HTML in action!](images/dit-is-een-code-blok-code.gif) 
+![HTML in action!](images/html.gif) 
 *HTML in action!*
 
 Whereas the internet can be understood as the infrastructure that connects computers, the web is an internet protocol that connects people.
@@ -20,7 +20,7 @@ Katie Hafner's *Where the Wizards Stay Up Late* was written in 1995--- just as t
 
 Beyond the Herculean engineering feat of integrating a vast network of computers to communicate data almost instantly (something Hafner's book narrates brilliantly), there needed to be an application to both harness and demonstrate the power of this network. And that first killer app for the internet was electronic mail or E-mail, and it's still around!
 
-![AOL's iconic "You've Got Mail" was a gateway to the internet for millions of early, non-geek users](images/Youve-Got-Mail-Cover.gif)
+![AOL's iconic "You've Got Mail" was a gateway to the internet for millions of early, non-geek users](images/youve-got-mail.gif)
 *AOL's iconic "You've Got Mail" was a gateway to the internet for millions of early, non-geek users*
 
 Email provides a good example of the difference between the internet and the web. Email was invented in 1971, that's almost 20 years before Tim Berners-Lee invented the web! Email was using the protocol FTP to transfer messages, and the @ was used as a convention to filter and point messages to specific users. Other email protocols such as Simple Mail Transfer Protocol (SMTP) were developed in the early 1980s, demonstrating the internet was constantly developing and evolving since its inception in 1969 and would in many ways break-through to a mass audience 25 years later thanks to the relative usability and flexibility of the web protocols.

@@ -1,4 +1,4 @@
-# [Domains Camp](/): Building a site with WordPress
+# Building a site with WordPress
 
 Now that you've installed WordPress and logged in, we can get started building your site!
 

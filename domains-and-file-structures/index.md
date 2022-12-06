@@ -1,4 +1,4 @@
-# [Domains Camp:](/) Understanding Domains and File Structures
+# Understanding Domains and File Structures
 
 So we've decided where and how we're going to establish our digital identity; how does the web know where to send us and what to show us when we search for and load sites? The web is built on structure; everything has to be in just the right place, written in just the right way, and linked to just the right resources in order for a single page to load as it should. Remember, computers and the internet may seem "smart," but they're really only just very good at following instructions. The more you understand how the web communicates, the more agency you wield as an engaged digital citizen!
 
