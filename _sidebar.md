@@ -1,0 +1,7 @@
+- [What is the web?](what-is-the-web.md)
+- [Digital Identity and Ownership](identity-and-ownership.md)
+- [Understanding Domains and File Structures](domains-and-files.md)
+- [Goal Setting](goal-setting.md)
+- [Installing WordPress](installing-wordpress.md)
+- [Building a Site with WordPress](building-wordpress-sites.md)
+- [Teaching and Learning with Domains](teaching-and-learning.md)
