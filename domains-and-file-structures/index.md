@@ -46,15 +46,15 @@ Now that we understand a little bit more about what the different options and po
 
 Knight Domains makes it very simple to install certain web applications in your cPanel account. Web applications are just special software that run on a web server. Usually, they allow you to build and manage a website. The kind of site you can build depends on the type of application you install. Here are some examples of applications that you can easily install within the Knight Domains web hosting interface:
 
-![](images/Screen-Shot-2018-04-04-at-10.40.00-AM-e1522852844558.png) **WordPress**: WordPress is a simple-to-use blogging application. The tool also comes with a _huge_ array of plugins & themes to allow you to create virtually any kind of website imaginable.
+![](images/wp-logo.png) **WordPress**: WordPress is a simple-to-use blogging application. The tool also comes with a _huge_ array of plugins & themes to allow you to create virtually any kind of website imaginable.
 
-![""](images/201910Omeka_logo-60x60.png) **Omeka:** Omeka is an open-source web application that can be used to create and display online digital collections and archives.
+![""](images/omeka-logo.png) **Omeka:** Omeka is an open-source web application that can be used to create and display online digital collections and archives.
 
-![](images/Screen-Shot-2018-04-04-at-10.36.09-AM.png) **Scalar:** Scalar is a content management system with the idea of creating non-linear books on the web.
+![](images/scalar-logo.png) **Scalar:** Scalar is a content management system with the idea of creating non-linear books on the web.
 
-![](images/Screen-Shot-2018-04-04-at-10.35.54-AM.png) **Grav:** Grav is an open source, flat-file CMS made for folks who are looking for something a little more experimental. Grav provides a straightforward framework for creating pages and inserting media.
+![](images/grav-logo.png) **Grav:** Grav is an open source, flat-file CMS made for folks who are looking for something a little more experimental. Grav provides a straightforward framework for creating pages and inserting media.
 
-![](images/9368957915_c9114154cc_o.png) **Mediawiki:** It is the open-source wiki software that runs the online encyclopedia, [Wikipedia](https://www.wikipedia.org/). This tool may be right for you if you’re interested in publishing documents and then collaborating with others on them.
+![](images/mediawiki-logo.png) **Mediawiki:** It is the open-source wiki software that runs the online encyclopedia, [Wikipedia](https://www.wikipedia.org/). This tool may be right for you if you’re interested in publishing documents and then collaborating with others on them.
 
 These are just a _few_ of the open-source applications that are available to you in your hosting space.  We encourage you to read more about what web applications are and which ones are available to you through Knight Domains.
 
@@ -64,11 +64,11 @@ Now that we've learned about some of the things you should be thinking about whe
 
 1. Go to [Knight Domains](https://knight.domains/) and click the **Sign Up** button to sign in with your SNC credentials.
 
-![](images/Screen-Shot-2022-10-20-at-11.25.08-AM.png)
+![](images/project-home.png)
 
 2. Pick your **subdomain** (remember, if you'd rather have your own apex domain we can always add that later) and click **Continue**.
 
-![](images/Screen-Shot-2022-10-20-at-11.31.32-AM.png)
+![](images/choose-domain.png)
 
 3. Review your chosen subdomain and contact info on the following page and, if correct, click **Sign Up**. 
 
@@ -86,11 +86,11 @@ When you sign up for your domain, a web hosting account is created. Although you
 
 You can find your File Manager by searching for it in your cPanel's dashboard:
 
-![](images/2018-03-30-at-12.37-PM-e1607355217926.png)
+![](images/cpanel-file-manager.png)
 
 ### public_html
 
-![](images/Screen-Shot-2022-10-20-at-11.02.47-AM.png)
+![](images/file-manager.png)
 
 From here, you'll be able to see a variety of folders at the root of your web space. Take note of the **public_html** folder in particular. Your main domain will correspond with this folder. Whatever files and folders are inside of this folder are available on that main domain. If you installed WordPress here, you’ll likely see a lot of WordPress-related files within it (which were probably helpfully put there by the automated installer). Let’s say we uploaded an image called mypicture.jpg directly into the public_html folder. That image would now be available at yourdomain.com/mypicture.jpg. The slash after your domain implies “this file is inside this folder”. But what if we had a folder inside the public_html folder? How does that appear? This is typically called a subfolder so let’s put a folder in public_html called “images” and put our image, mypicture.jpg, inside of that folder. What would you type in a browser to get to that file now? The location would be mydomain.com/images/mypicture.jpg. So subfolders are also indicated by a forward slash after a domain.
 
@@ -108,15 +108,15 @@ Now that we've learned a bit about how your web browser looks for when you type 
 
 1. Make an `index.html` file in `public_html`, type a phrase (like "Hello World!") and save it. Open a new tab and type in your domain. What do you see?
 
-![](images/Screen-Shot-2022-10-20-at-11.42.32-AM.png)
+![](images/new-file.png)
 
-![](images/Screen-Shot-2022-10-20-at-11.43.54-AM.png)
+![](images/create-file-button.png)
 
-![](images/Screen-Shot-2022-10-20-at-11.44.06-AM.png)
+![](images/edit-file.png)
 
-![](images/Screen-Shot-2022-10-20-at-11.45.49-AM.png)
+![](images/edit-file-confirm.png)
 
-![](images/Screen-Shot-2022-10-20-at-11.47.38-AM.png)
+![](images/hello-world.png)
 
 2. Return to `public_html` and create a folder. This is a directory of your apex domain. Open a new tab and type in your domain with the name of your new folder (directory) appended. E.g. mydomain.com/newfolder. What do you see?
 
