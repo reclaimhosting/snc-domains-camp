@@ -5,14 +5,7 @@ The terms web and internet are often used interchangeably, but it's worth noting
 
 The **internet** refers to the broad infrastructure of distributed, decentralized networked computers that provide the ability to rapidly transfer data between access points. 
 
-<center>
-<figure>
-  <img src="../images/what-is-the-web/internet-phenomenon.gif" alt="the growing phenomenon of INTERNET">
-  <figcaption>the growing phenomenon of INTERNET</figcaption>
-</figure> 
-</center>
-
-<!-- ![the growing phenomenon of INTERNET](../images/what-is-the-web/internet-phenomenon.gif 'the growing phenomenon of INTERNET') -->
+![the growing phenomenon of INTERNET](../images/what-is-the-web/internet-phenomenon.gif 'the growing phenomenon of INTERNET')
 
 Whereas the **web** is a series of protocols developed for the internet that allow for the creation, publication, and linking of information on and between pages and sites. These early pages were often referred to as hypertexts, a reference to the [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (HTTP) that made the connection between a web client (a.k.a. browser) and a server possible. What shows up on that web client is written in a specific mark-up language called [Hypertext Markup Language](https://en.wikipedia.org/wiki/HTML) (HTML) that makes both the linking and embedding of resources possible.
 
