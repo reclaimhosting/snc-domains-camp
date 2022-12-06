@@ -4,7 +4,7 @@ Now that you've installed WordPress and logged in, we can get started building y
 
 After logging in to WordPress, you will be greeted with your site's Dashboard. We'll be checking out the several parts of the Dashboard, but the first thing to pay attention to is the Home icon ![](images/256308db-dd2e-4cc9-9a95-3247ade6eee8.png) at the top left. Clicking on this will exit the Dashboard and bring you to the public home page of your site. To return to the Dashboard, click the Speedometer icon ![](images/building-wordpress-sites/dashboard-button.png).
 
-### Posts
+## Posts
 
 Posts in WordPress are the core of what make up a blog, they of course can let you write and put other content on a webpage, but they also display metadata about themselves, like when they were written, who the author was, and what category they belong to. We'll get started building our website by making our first post.
 
@@ -51,7 +51,7 @@ Now that your post has been published, let's go to the homepage of your site to 
 
 ![](images/building-wordpress-sites/post-with-pattern.png)
 
-### Pages
+## Pages
 
 Now that we've made our first Post, let's talk about pages for a second. Posts have metadata attached to them (data about the post, like publish date, and author) and are often displayed in a blog-like layout. Pages are simpler and do not typically display any metadata. Pages are most often used for content that doesn't make sense as a blog post.
 
@@ -71,7 +71,7 @@ From your homepage, you should see your blog post and the page you just made.
 
 ![](images/building-wordpress-sites/home-post-and-about.png)
 
-### Settings
+## Settings
 
 Now that you've published a post and a page, you know how to add content to your site! Next, we'll move on to the Settings area of the Dashboard. WordPress has quite a few settings that allow you to change how your site works, but there are a few that are good to know about right away.
 
@@ -83,7 +83,7 @@ The **Site Title** and **Tagline**, both of which typically show up in your site
 
 ![](images/building-wordpress-sites/general-settings.png)
 
-#### ⚠️ Don't change the URLs on this page!
+### ⚠️ Don't change the URLs on this page!
 Do not change the **WordPress Address (URL)** or **Site Address (URL)** fields from this page. Those fields tell WordPress what the URL of your site is supposed to be, and if they are changed, your site likely will not work (don't worry this can be fixed!). If you do want to move your site to a different URL that can be done from cPanel later, using Installatron.
 
 Next, lets head over to **Settings**, then **Reading**.
@@ -107,11 +107,11 @@ In this example, the About page becomes the homepage of the site:
 ![](images/building-wordpress-sites/about-page.png)
 
 
-### Appearance & Themes
+## Appearance & Themes
 
 So far, we've published content to our site, and looked at some of the settings that we can change to make the site fit our needs better, but if you want to change the way your site looks, you'll want to either use the Site Editor, or change your site's theme. We'll briefly jump into both of these options.
 
-##### Site Editor
+### Site Editor
  
 The way your WordPress site looks is affected by the theme you are using, and how you have that theme set up. Some themes support the Site Editor, which is a powerful tool that lets you change almost every aspect of the way your site looks.
 
@@ -129,7 +129,7 @@ The Styles panel will let you change many different aspects of the way your site
 
 ![](images/building-wordpress-sites/styles.png)
 
-##### 💡 If you are looking more info on using Styles, check out this video:
+#### 💡 If you are looking more info on using Styles, check out this video:
 
 [Styling Your Site With Global Styles](https://learn.wordpress.org/tutorial/how-to-style-your-site-with-global-styles/)
 
@@ -142,7 +142,7 @@ You can also click the **List view** button ![](images/building-wordpress-sites/
 ![](images/building-wordpress-sites/fse-list-view-sidebar.png)
 
 
-#### Themes
+### Themes
 
 If the styles and various options available in the Site Editor aren't working for you, you might want to try switching to an entirely different WordPress theme.
 
@@ -169,7 +169,7 @@ When you find that looks good to you, you can click **Install**, then **Live Pre
 
 ![](images/building-wordpress-sites/miyazaki-theme.gif)
 
-##### Customizer
+#### Customizer
 
 This will bring you to **Customizer** where you can preview the theme on your site, as well as tweak the theme's options using the menu on the left. If you are happy with this theme, click **Activate & Publish**. When you are ready to exit the Customizer, either because you are ready to check out another theme or you activated a theme you want to stick with, click the ![](images/building-wordpress-sites/x-button.png) button at the top left.
 
@@ -179,7 +179,7 @@ If you ever want to get back in to the customizer to change settings related to 
 
 Note that some themes will give you the option to use the Site Editor, and other themes use the Customizer instead. Which type of theme you prefer to use is a personal preference, some people like the flexibility of the Site Editor, and others like the simplicity of the Customizer.
 
-### Plugins
+## Plugins
 
 Plugins are an amazing part of the WordPress ecosystem, and can add all kinds of functionality to your WordPress site. From your Dashboard, click **Plugins** to check them out. 
 
