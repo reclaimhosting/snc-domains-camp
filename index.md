@@ -2,7 +2,7 @@
 
 ![Norby Knight giving you a thumbs up while using a laptop](images/index/norby_with_laptop.png)
 
-Domains Camp is designed for students, faculty, and staff at SNC who want to learn how to build their digital presence on the web. These modules help you understand how the web works and how to get started building your identity.
+Domains Camp is designed for students, faculty, and staff at SNC who want to learn how to build their digital presence on the web. These modules help you understand how the web works and how to get started building your digital identity.
 
 ## Modules
 1. [What is the web?](what-is-the-web.md)
