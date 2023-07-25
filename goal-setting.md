@@ -24,7 +24,7 @@ Coventry Domains' [Imagining Your New Website](https://coventry.domains/learn/im
 
 ## Visitors and Residents Revisited
 
-[The Digital Identity and Ownership unit](https://docs.reclaimed.tech/domains-camp-2) included [a section on **"Visitors and Residents"**](https://docs.reclaimed.tech/domains-camp-2#Visitors-and-Residents) about how sites engage with their users: focusing on objectives, or focusing on creation. **Visitor mode** means that users visit the site, achieve what they came to do, and move on, while **Resident mode** encourages users to contribute to the site and share their own work or content.
+[The Digital Identity and Ownership unit](/identity-and-ownership) included [a section on **"Visitors and Residents"**](/identity-and-ownership#Visitors-and-Residents) about how sites engage with their users: focusing on objectives, or focusing on creation. **Visitor mode** means that users visit the site, achieve what they came to do, and move on, while **Resident mode** encourages users to contribute to the site and share their own work or content.
 
 #### 🎯 Visitor/Resident Mapping Your Site
 
